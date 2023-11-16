@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reda Essa</h1>
 <h3 align="center">An Application Developer From Egypt</h3>
-<img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<!-- <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redaessa7&label=Profile%20views&color=0e75b6&style=flat" alt="redaessa7" /> </p>
