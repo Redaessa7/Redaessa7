@@ -13,8 +13,8 @@ I focus on **Clean Architecture**, SOLID principles, Domain-Driven Design, and w
 - 🔭 Currently working on enterprise .NET applications and open-source tools.
 - 🌱 Deepening my knowledge in **Microservices**, **CQRS**, **Event-Driven Architecture**, and **Cloud-Native** development.
 - 👨‍💻 Explore my work on **[GitHub Repositories](https://github.com/Redaessa7?tab=repositories)** and my **[Personal Website](https://redaessa7.netlify.app/)**.
-- 💬 Ask me about: **C#, ASP.NET Core, Entity Framework, Clean Architecture, SQL Server, REST APIs, Microservices**.
-- 📫 Reach me: **redaessa.dev@gmait.com**
+- 💬 Ask me about: **C#, ASP.NET Core, Entity Framework, Clean Architecture, SQL Server, REST APIs**.
+- 📫 Reach me: **redaessa.dev@gmail.com**
 
 <br>
 
@@ -108,32 +108,35 @@ I focus on **Clean Architecture**, SOLID principles, Domain-Driven Design, and w
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redaessa7&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/Redaessa7">
         <img src="https://github-readme-stats.vercel.app/api?username=Redaessa7&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
     </a>
     <a href="https://github.com/Redaessa7">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redaessa7&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
     </a>
-</div>
+</div> -->
 
 <br>
 
-## 🤝 Let's Connect
-
 <div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
+## 🤝 Let's Connect
+<br>
+<div align="left">
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/redaessa7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:redaessa.dev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Redaessa7)
 
 </div>
 
-<br>
-
 ## 💜 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Redaessa7&color=8065ca&style=flat-square)
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=8065ca&lines=Thanks+for+visiting!+❤️;Open+for+collaboration+and+new+opportunities;Long+Life+Learner" />
