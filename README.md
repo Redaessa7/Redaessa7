@@ -11,7 +11,6 @@ Passionate **Backend Developer** specialized in building scalable, secure, and h
 I focus on **Clean Architecture**, SOLID principles, Domain-Driven Design, and writing clean, maintainable code. With **2+ years** of experience, I have delivered **5+ projects** with high reliability (up to 90% uptime).
 
 - 🔭 Currently working on enterprise .NET applications and open-source tools.
-- 🌱 Deepening my knowledge in **Microservices**, **CQRS**, **Event-Driven Architecture**, and **Cloud-Native** development.
 - 👨‍💻 Explore my work on **[GitHub Repositories](https://github.com/Redaessa7?tab=repositories)** and my **[Personal Website](https://redaessa7.netlify.app/)**.
 - 💬 Ask me about: **C#, ASP.NET Core, Entity Framework, Clean Architecture, SQL Server, REST APIs**.
 - 📫 Reach me: **redaessa.dev@gmail.com**
